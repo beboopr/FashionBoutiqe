@@ -157,3 +157,11 @@ nav{
 .sliderItem:nth-child(5) .sliderPrice{
     color: rgb(124, 115, 80);
 }
+
+/* Logos = freeshipping, contact, returns ect.. */
+
+.features{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
