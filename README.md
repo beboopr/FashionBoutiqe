@@ -1,16 +1,14 @@
-# FashionBoutiqe
+# Shoes | Sample
 # Creating a sample E-Commerce Website ONLY using HTML, CSS and some JavaScript.
 
 This project was created with [ React App ]
 
-# United | Project
+
 
 This app is build to help people give and donate anything that other people may need in use.
 
 ## Features
 
-- Full Stack App
-- Light/dark mode toggle
 - Live previews
 - Fullscreen mode
 - Cross platform
