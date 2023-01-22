@@ -1,5 +1,5 @@
 # FashionBoutiqe
-# Creating A sample E-commers Website ONLY using HTML, CSS and some JavaScrip.
+# Creating a sample E-commers Website ONLY using HTML, CSS and some JavaScrip.
 
 This project was created with [ React App ]
 
