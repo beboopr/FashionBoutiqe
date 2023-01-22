@@ -1,5 +1,5 @@
 # FashionBoutiqe
-# Creating a sample E-Commerce Website ONLY using HTML, CSS and some JavaScrip.
+# Creating a sample E-Commerce Website ONLY using HTML, CSS and some JavaScript.
 
 This project was created with [ React App ]
 
